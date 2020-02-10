@@ -31,7 +31,7 @@
 
 ## 源码如下：
 
-**[src/com/kris/landlords/MainApp.class](src/com/kris/landlords/Player.class)**
+**[src/com/kris/landlords/MainApp.class](./src/com/kris/landlords/Player.class)**
 ```python
 package com.kris.landlords;
 
@@ -49,7 +49,7 @@ public class MainApp {
 }
 ```
 
-**[src/com/kris/landlords/AdminController.class](src/com/kris/landlords/Player.class)**
+**[src/com/kris/landlords/AdminController.class](./src/com/kris/landlords/Player.class)**
 
 ```python
 package com.kris.landlords;
@@ -170,7 +170,7 @@ public class AdminController {
 
 ```
 
-**[src/com/kris/landlords/Player.class](src/com/kris/landlords/Player.class)**
+**[src/com/kris/landlords/Player.class](./src/com/kris/landlords/Player.class)**
 
 ```python
 package com.kris.landlords;
@@ -294,7 +294,7 @@ public class Player {
 
 ```
 
-**[src/com/kris/landlords/Bottom.class](src/com/kris/landlords/Player.class)**
+**[src/com/kris/landlords/Bottom.class](./src/com/kris/landlords/Player.class)**
 ```python
 package com.kris.landlords;
 
