@@ -31,7 +31,7 @@
 
 ## 源码如下：
 
-**[src/com/kris/landlords/MainApp.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/MainApp.java)**
+**[src/com/kris/landlords/MainApp.java](./src/com/kris/landlords/MainApp.java)**
 ```python
 package com.kris.landlords;
 
