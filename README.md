@@ -49,7 +49,7 @@ public class MainApp {
 }
 ```
 
-**[src/com/kris/landlords/AdminController.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/AdminController.java)**
+**[src/com/kris/landlords/AdminController.java](./src/com/kris/landlords/AdminController.java)**
 
 ```python
 package com.kris.landlords;
@@ -170,7 +170,7 @@ public class AdminController {
 
 ```
 
-**[src/com/kris/landlords/Player.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Player.java)**
+**[src/com/kris/landlords/Player.java](./src/com/kris/landlords/Player.java)**
 
 ```python
 package com.kris.landlords;
@@ -294,7 +294,8 @@ public class Player {
 
 ```
 
-**[src/com/kris/landlords/Bottom.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Bottom.java)**
+**[src/com/kris/landlords/Bottom.java](./src/com/kris/landlords/Bottom.java)**
+
 ```python
 package com.kris.landlords;
 
