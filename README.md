@@ -31,7 +31,7 @@
 
 ## 源码如下：
 
-**[src/com/kris/landlords/MainApp.class](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/MainApp.class)**
+**[src/com/kris/landlords/MainApp.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/MainApp.java)**
 ```python
 package com.kris.landlords;
 
@@ -49,7 +49,7 @@ public class MainApp {
 }
 ```
 
-**[src/com/kris/landlords/AdminController.class](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/AdminController.class)**
+**[src/com/kris/landlords/AdminController.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/AdminController.java)**
 
 ```python
 package com.kris.landlords;
@@ -170,7 +170,7 @@ public class AdminController {
 
 ```
 
-**[src/com/kris/landlords/Player.class](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Player.class)**
+**[src/com/kris/landlords/Player.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Player.java)**
 
 ```python
 package com.kris.landlords;
@@ -294,7 +294,7 @@ public class Player {
 
 ```
 
-**[src/com/kris/landlords/Bottom.class](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Bottom.class)**
+**[src/com/kris/landlords/Bottom.java](https://github.com/louis6575/PokerSystem/tree/master/src/com/kris/landlords/Bottom.java)**
 ```python
 package com.kris.landlords;
 
